@@ -1,0 +1,6 @@
+[submodule "lib/solmate"]
+	path = lib/solmate
+	url = https://github.com/rari-capital/solmate
+[submodule "2-foundry-test-course/lib/solmate"]
+	path = 2-foundry-test-course/lib/solmate
+	url = https://github.com/rari-capital/solmate
